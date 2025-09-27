@@ -6,6 +6,6 @@
 
 результат пишется в директорию веб.сервера где лежат файлы для страниц
 
-    /var/www/html/links/data/pages/mu
+    /var/www/html/links/data/pages/lmchez
 
 <img src="https://github.com/ZeleB0BA/lmchez_dokuwiki_report_generator/blob/main/get_LMCHEZ_info_sample.png">
