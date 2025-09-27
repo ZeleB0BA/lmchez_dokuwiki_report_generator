@@ -7,8 +7,5 @@
 результат пишется в директорию веб.сервера где лежат файлы для страниц
 
     /var/www/html/links/data/pages/mu
-https://github.com/ZeleB0BA/lmchez_dokuwiki_report_generator/blob/main/get_LMCHEZ_info_sample.jpg
-![Alt text](/path/to/img.jpg "Optional title")
 
-<img src="[get_LMCHEZ_info_sample.jpg" height="450">
-https://github.com/ZeleB0BA/lmchez_dokuwiki_report_generator/blob/main/get_LMCHEZ_info_sample.jpg
+<img src="https://github.com/ZeleB0BA/lmchez_dokuwiki_report_generator/blob/main/get_LMCHEZ_info_sample.jpg" height="450">
