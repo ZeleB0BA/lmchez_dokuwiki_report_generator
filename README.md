@@ -8,4 +8,4 @@
 
     /var/www/html/links/data/pages/mu
 
-<img src="https://github.com/ZeleB0BA/lmchez_dokuwiki_report_generator/blob/main/get_LMCHEZ_info_sample.jpg" height="450">
+<img src="[https://github.com/ZeleB0BA/lmchez_dokuwiki_report_generator/blob/main/get_LMCHEZ_info_sample.png](get_LMCHEZ_info_sample.png)" height="450">
